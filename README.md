@@ -40,7 +40,7 @@ Apaixonado por tecnologia, música e ciência! Atualmente curso Análise e Desen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cássio-simas-676b80295)
 
 ---
-
+✉️ **E-mail:** cassiosimas26@gmail.com
 <!--
 Quer conhecer meus projetos ou trocar uma ideia? Sinta-se à vontade para me chamar!
 -->
