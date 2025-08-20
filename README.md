@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Cássio Simas!
+
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+📍 **Rio de Janeiro, Brasil**  
+
+---
+
+## 🚀 Sobre mim
+
+Apaixonado por tecnologia, música e ciência! Atualmente curso Análise e Desenvolvimento de Sistemas e estou sempre buscando superar desafios e aprender algo novo.
+> **"A verdadeira superação está em nunca desistir, mesmo quando o caminho parece impossível."**
+
+---
+
+## 🛠️ Principais habilidades
+
+- **JavaScript**
+- **Python**
+- **HTML & CSS**
+
+---
+
+## 🌟 Projeto favorito
+
+- [Pizzaria do João](https://github.com/simascassio/Sabor-Arte)  
+  Meu projeto preferido, onde pude aplicar e evoluir meus conhecimentos em desenvolvimento web.
+
+---
+
+## 🎸 Curiosidades
+
+- Amante de música
+- Entusiasta de tecnologia
+- Fascinado por ciência
+
+---
+
+## 🌐 Redes sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cássio-simas-676b80295)
+
+---
 
 <!--
-**simascassio/simascassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Quer conhecer meus projetos ou trocar uma ideia? Sinta-se à vontade para me chamar!
 -->
