@@ -22,7 +22,7 @@ Apaixonado por tecnologia, música e ciência! Atualmente curso Análise e Desen
 
 ## 🌟 Projeto favorito
 
-- [Pizzaria do Sabor Arte](https://github.com/simascassio/Sabor-Arte)  
+- [Pizzaria  Sabor Arte](https://github.com/simascassio/Sabor-Arte)  
   Meu projeto preferido, onde pude aplicar e evoluir meus conhecimentos em desenvolvimento web.
 
 ---
